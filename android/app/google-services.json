@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "561464824812",
+    "project_id": "ecommerce-pckod",
+    "storage_bucket": "ecommerce-pckod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561464824812:android:f996c0a12d6605ea4e26c9",
+        "android_client_info": {
+          "package_name": "com.youssef.pckode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561464824812-nimnhajg5dkg51bpivuo84cnlfk04ua4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.youssef.pckode",
+            "certificate_hash": "fb4bd169eda60b3f037fa7cb0ae0fdfe94a894bb"
+          }
+        },
+        {
+          "client_id": "561464824812-pfd32nelsso1vc9jg1r3be7ag8ragver.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtWjNtBFzsw7Sl0gykOi6yD5DhV4KHCJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561464824812-pfd32nelsso1vc9jg1r3be7ag8ragver.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
